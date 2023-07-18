@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *main - Prints a mmultiplication table up to param
+ *print_the_times_table - Prints a mmultiplication table up to param
  * @n: The number to be treated
  *
  * Return: Number matrix
